@@ -1,0 +1,23 @@
+alembic==1.9.0
+asgiref==3.5.0
+click==8.1.3
+colorama==0.4.6
+Django==4.0.4
+Flask==2.2.2
+Flask-Login==0.6.2
+Flask-Migrate==4.0.0
+Flask-SQLAlchemy==3.0.2
+greenlet==2.0.1
+importlib-metadata==5.2.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+Mako==1.2.4
+MarkupSafe==2.1.1
+PyMySQL==1.0.2
+PyOpenGL @ file:///C:/Users/User/Desktop/lab3/PyOpenGL-3.1.6-cp39-cp39-win_amd64.whl
+PyOpenGL-accelerate @ file:///C:/Users/User/Desktop/lab3/PyOpenGL_accelerate-3.1.6-cp39-cp39-win_amd64.whl
+SQLAlchemy==1.4.45
+sqlparse==0.4.2
+tzdata==2022.1
+Werkzeug==2.2.2
+zipp==3.11.0
